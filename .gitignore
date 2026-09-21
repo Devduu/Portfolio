@@ -1,14 +1,13 @@
-# dependencies
-**/node_modules
+# dependencias
+node_modules/
 
 # build
-**/dist
-**/build
+dist/
+build/
 
-# env
+# variaveis de ambiente
 .env
-**/.env
-**/.env.*
+.env.*
 
 # logs
 npm-debug.log*
@@ -16,5 +15,14 @@ yarn-debug.log*
 yarn-error.log*
 pnpm-debug.log*
 
+# temporarios do vite
+.vite/
+vite.config.js.timestamp-*
+
 # macOS
 .DS_Store
+
+# ferramentas locais (nao versionar)
+.remember/
+_to_delete/
+Claude outputs/
