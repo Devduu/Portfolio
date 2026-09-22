@@ -1,5 +1,7 @@
 # Portfólio · Eduardo Delorenzo Moraes
 
+**[eduardo-moraes-portfolio.vercel.app](https://eduardo-moraes-portfolio.vercel.app)**
+
 Meu site pessoal, em uma página: projetos, trajetória, tecnologias e cursos.
 A identidade visual é gerada em canvas, com dither 1-bit.
 
