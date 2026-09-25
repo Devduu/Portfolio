@@ -262,7 +262,7 @@ export const HISTORIA = [
     'Minha trajetória começou na área administrativa. Por um ano e meio fui aprendiz na Companhia Brasileira de Alumínio, enquanto cursava o técnico em Administração no Senai. A rotina era bem variada: controle de estoque, planilhas de indicadores, fluxo de documentos entre setores, registro de ponto, integração de novos aprendizes e aferições dos fornos numa base Access.',
   ],
   [
-    'Boa parte do meu dia a dia era trabalho manual, registro por registro. Convivendo com esse volume, comecei a querer entender como aquilo podia ser automatizado, e foi esse interesse que me trouxe para a tecnologia.',
+    'Boa parte do meu dia a dia era lançar informações registro por registro em planilhas ou sistemas. Convivendo com esse volume, comecei a querer entender como aquilo podia ser automatizado, e foi esse interesse que me trouxe para a tecnologia.',
   ],
   [
     'Comecei estudando por conta própria, testando linguagens até achar o que combinava comigo. Python é hoje a linguagem que mais uso e onde me sinto mais à vontade: é com ela que faço os dashboards, com pandas, NumPy e Plotly. Fora isso, já construí bots em Node.js, aplicações web em React e sistemas embarcados em C++. Cada projeto trouxe uma dificuldade que eu ainda não tinha enfrentado, e é aí que eu mais aprendo.',
