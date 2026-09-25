@@ -259,19 +259,19 @@ export const TECNOLOGIAS = [
    curriculo. */
 export const HISTORIA = [
   [
-    'Minha trajetória começou na área administrativa. Por um ano e meio fui aprendiz na Companhia Brasileira de Alumínio, enquanto cursava o técnico em Administração no Senai. A rotina era bem variada: controle de estoque, planilhas de indicadores, fluxo de documentos entre setores, registro de ponto, integração de novos aprendizes e aferições dos fornos numa base Access.',
+    'Minha trajetória começou na área administrativa. Por um ano e meio fui aprendiz na Companhia Brasileira de Alumínio, enquanto cursava o técnico em Administração no Senai. Cuidava de controle de estoque, planilhas de indicadores, fluxo de documentos entre setores, registro de ponto, integração de novos aprendizes e aferições dos fornos numa base Access.',
   ],
   [
     'Boa parte do meu dia a dia era lançar informações registro por registro em planilhas ou sistemas. Convivendo com esse volume, comecei a querer entender como aquilo podia ser automatizado, e foi esse interesse que me trouxe para a tecnologia.',
   ],
   [
-    'Comecei estudando por conta própria, testando linguagens até achar o que combinava comigo. Python é hoje a linguagem que mais uso e onde me sinto mais à vontade: é com ela que faço os dashboards, com pandas, NumPy e Plotly. Fora isso, já construí bots em Node.js, aplicações web em React e sistemas embarcados em C++. Cada projeto trouxe uma dificuldade que eu ainda não tinha enfrentado, e é aí que eu mais aprendo.',
+    'Comecei estudando por conta própria, testando linguagens até achar o que combinava comigo. Python é hoje a linguagem que mais uso e onde me sinto mais à vontade. É com ela que faço os dashboards, usando pandas, NumPy e Plotly. Fora isso, já construí bots em Node.js, aplicações web em React e sistemas embarcados em C++. Cada projeto trouxe uma dificuldade que eu ainda não tinha enfrentado, e é aí que eu mais aprendo.',
   ],
   [
-    'Gosto de participar desde o início: entender o problema, propor o caminho e desenhar a arquitetura e a experiência. O que me move é a solução funcionar no dia a dia de quem vai usar, do desenho até a entrega. Hoje um dos assuntos que mais me chama a atenção é inteligência artificial aplicada em empresas, onde vejo bastante potencial em processos que ainda são feitos registro por registro.',
+    'Gosto de participar desde o início, entendendo o problema, sugerindo ideias de solução e acompanhando a definição da arquitetura e da experiência. O que me move é a solução funcionar na rotina de quem vai usar, do desenho até a entrega. Hoje um dos assuntos que mais me chama a atenção é inteligência artificial aplicada em empresas, onde vejo bastante potencial em processos que ainda são feitos registro por registro.',
   ],
   [
-    'Busco meu primeiro estágio para ver de perto como uma empresa funciona por dentro: trabalhar em projetos reais, com um time, e aprender com quem já faz isso há mais tempo.',
+    'Busco meu primeiro estágio em tecnologia para ver de perto como o desenvolvimento acontece em uma empresa. Quero trabalhar em projetos reais, com um time, e aprender com quem já faz isso há mais tempo.',
   ],
 ];
 
