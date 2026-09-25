@@ -29,7 +29,7 @@ export default function Hero() {
 
           <div className="hero__ac">
             <a className="cta" href="#contato">
-              Falar comigo
+              Fale comigo
               <IconeSeta />
             </a>
             {PESSOA.curriculo && (

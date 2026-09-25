@@ -103,7 +103,7 @@ export default function Navbar({ ativa, claro, aoAlternarTema }) {
 
         <div className="cont menu__acoes" style={{ '--i': total }}>
           <a className="btn btn--ac" href="#contato" onClick={fechar}>
-            Falar comigo
+            Fale comigo
             <IconeSeta />
           </a>
           {REDES.map((r) => {
