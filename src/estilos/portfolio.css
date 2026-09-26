@@ -1572,6 +1572,26 @@ html.rv .sec__cab:not([data-visto]) .sec__t > span {
 html[data-tema="claro"] .tec {
   --marca: var(--marca-claro);
 }
+/* etiqueta embaixo do nome (ex.: em andamento), no ritmo do ponto do status */
+.tec__eti {
+  display: block;
+  margin-top: 3px;
+  font-family: var(--mono);
+  font-size: 11px;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  color: var(--accent);
+  animation: pulsLeve 2.4s ease-in-out infinite;
+}
+@keyframes pulsLeve {
+  0%,
+  100% {
+    opacity: 1;
+  }
+  50% {
+    opacity: 0.45;
+  }
+}
 @media (max-width: 900px) {
   .comp__grupo {
     grid-template-columns: 1fr;

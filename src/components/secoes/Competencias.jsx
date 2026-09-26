@@ -23,7 +23,10 @@ export default function Competencias() {
                 {grupo.itens.map((t) => (
                   <li className="tec" key={t.nome} style={corDaMarca(t.logo)}>
                     <Logo nome={t.logo} />
-                    {t.nome}
+                    <span>
+                      {t.nome}
+                      {t.etiqueta && <span className="tec__eti">{t.etiqueta}</span>}
+                    </span>
                   </li>
                 ))}
               </ul>

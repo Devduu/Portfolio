@@ -165,7 +165,8 @@ export const ANO_PRIMEIRO_CURSO = Math.min(
 /* ---------- tecnologias ----------
    As mesmas areas e itens da aba Skills do dashboard.
    "logo" e a chave do desenho em components/Logos.jsx: marca (Simple Icons)
-   ou icone (Phosphor), pra pratica que nao tem marca. */
+   ou icone (Phosphor), pra pratica que nao tem marca.
+   "etiqueta" e opcional e aparece embaixo do nome, piscando de leve. */
 export const TECNOLOGIAS = [
   {
     rotulo: 'Linguagens',
@@ -188,6 +189,7 @@ export const TECNOLOGIAS = [
       { nome: 'Integração via webhooks', logo: 'webhook' },
       { nome: 'Autenticação com JWT e bcrypt', logo: 'jsonwebtokens' },
       { nome: 'Variáveis de ambiente e segredos', logo: 'dotenv' },
+      { nome: 'Automação de atendimento', logo: 'robo' },
     ],
   },
   {
@@ -218,8 +220,7 @@ export const TECNOLOGIAS = [
   {
     rotulo: 'Inteligência artificial',
     itens: [
-      { nome: 'TF-IDF e embeddings', logo: 'vetores' },
-      { nome: 'Automação de atendimento', logo: 'robo' },
+      { nome: 'TF-IDF e embeddings', logo: 'vetores', etiqueta: 'Em andamento' },
       { nome: 'Ética e uso responsável de IA', logo: 'etica' },
     ],
   },
