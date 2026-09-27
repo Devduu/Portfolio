@@ -260,19 +260,19 @@ export const TECNOLOGIAS = [
    curriculo. */
 export const HISTORIA = [
   [
-    'Minha trajetória começou na área administrativa. Por um ano e meio fui aprendiz na Companhia Brasileira de Alumínio, enquanto cursava o técnico em Administração no Senai. Cuidava de controle de estoque, planilhas de indicadores, fluxo de documentos entre setores, registro de ponto, integração de novos aprendizes e aferições dos fornos numa base Access.',
+    'Minha trajetória profissional começou na área administrativa. Durante um ano e meio, fui aprendiz na Companhia Brasileira de Alumínio (CBA), em paralelo ao curso técnico em Administração no Senai. Nesse período, atuei no registro das aferições dos fornos em base de dados Access, na elaboração e atualização de planilhas de indicadores em Excel e no controle do estoque de materiais das áreas administrativa e operacional. Também participei da organização do fluxo de documentos e materiais entre setores, do apontamento de horas e lançamento de ponto dos colaboradores e da integração de novos aprendizes.',
   ],
   [
-    'Boa parte do meu dia a dia era lançar informações registro por registro em planilhas ou sistemas. Convivendo com esse volume, comecei a querer entender como aquilo podia ser automatizado, e foi esse interesse que me trouxe para a tecnologia.',
+    'Como boa parte dessa rotina envolvia lançar informações registro a registro em planilhas e sistemas, passei a me interessar por entender como esses processos poderiam ser automatizados. Foi esse interesse que me trouxe para a tecnologia.',
   ],
   [
-    'Comecei estudando por conta própria, testando linguagens até achar o que combinava comigo. Python é hoje a linguagem que mais uso e onde me sinto mais à vontade. É com ela que faço os dashboards, usando pandas, NumPy e Plotly. Fora isso, já construí bots em Node.js, aplicações web em React e sistemas embarcados em C++. Cada projeto trouxe uma dificuldade que eu ainda não tinha enfrentado, e é aí que eu mais aprendo.',
+    'Iniciei os estudos de forma autodidata, explorando diferentes linguagens até encontrar as que mais se alinhavam ao meu perfil. Hoje, Python é a linguagem com a qual tenho mais familiaridade e que utilizo em análises de dados e dashboards, com pandas, NumPy e Plotly. Também desenvolvi um chatbot de atendimento em Node.js, aplicações web em React e projetos de sistemas embarcados em C++. Cada projeto trouxe um desafio técnico novo, e é na resolução desses desafios que mais evoluo.',
   ],
   [
-    'Gosto de participar desde o início, entendendo o problema, sugerindo ideias de solução e acompanhando a definição da arquitetura e da experiência. O que me move é a solução funcionar na rotina de quem vai usar, do desenho até a entrega. Hoje um dos assuntos que mais me chama a atenção é inteligência artificial aplicada em empresas, onde vejo bastante potencial em processos que ainda são feitos registro por registro.',
+    'Gosto de participar dos projetos desde o início, entendendo o problema, propondo soluções e acompanhando a definição da arquitetura e da experiência do usuário. Meu objetivo é que a solução funcione na rotina de quem vai utilizá-la, da concepção à entrega. Tenho interesse especial em inteligência artificial aplicada ao ambiente corporativo, área em que vejo grande potencial para otimizar processos que ainda dependem de registro manual.',
   ],
   [
-    'Busco meu primeiro estágio em tecnologia para ver de perto como o desenvolvimento acontece em uma empresa. Quero trabalhar em projetos reais, com um time, e aprender com quem já faz isso há mais tempo.',
+    'Busco minha primeira oportunidade de estágio em desenvolvimento de software para acompanhar de perto o desenvolvimento dentro de uma empresa, atuar em projetos reais com um time e aprender com profissionais mais experientes.',
   ],
 ];
 
