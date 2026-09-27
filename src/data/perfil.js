@@ -260,7 +260,7 @@ export const TECNOLOGIAS = [
    curriculo. */
 export const HISTORIA = [
   [
-    'Minha trajetória profissional começou na área administrativa. Durante um ano e meio, fui aprendiz na Companhia Brasileira de Alumínio (CBA), em paralelo ao curso técnico em Administração no Senai. Nesse período, atuei no registro das aferições dos fornos em base de dados Access, na elaboração e atualização de planilhas de indicadores em Excel e no controle do estoque de materiais das áreas administrativa e operacional. Também participei da organização do fluxo de documentos e materiais entre setores, do apontamento de horas e lançamento de ponto dos colaboradores e da integração de novos aprendizes.',
+    'Minha trajetória profissional começou na área administrativa. Durante um ano e meio, fui aprendiz na Companhia Brasileira de Alumínio (CBA), em paralelo ao curso técnico em Administração no Senai. Nesse período, atuei no registro das aferições dos fornos em base de dados Access, na atualização de planilhas de indicadores, no controle de estoque e no fluxo de documentos entre setores.',
   ],
   [
     'Como boa parte dessa rotina envolvia lançar informações registro a registro em planilhas e sistemas, passei a me interessar por entender como esses processos poderiam ser automatizados. Foi esse interesse que me trouxe para a tecnologia.',
