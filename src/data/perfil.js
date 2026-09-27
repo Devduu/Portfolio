@@ -266,10 +266,10 @@ export const HISTORIA = [
     'Como boa parte dessa rotina envolvia lançar informações registro a registro em planilhas e sistemas, passei a me interessar por entender como esses processos poderiam ser automatizados. Foi esse interesse que me trouxe para a tecnologia.',
   ],
   [
-    'Iniciei os estudos de forma autodidata, explorando diferentes linguagens até encontrar as que mais se alinhavam ao meu perfil. Hoje, Python é a linguagem com a qual tenho mais familiaridade e que utilizo em análises de dados e dashboards, com pandas, NumPy e Plotly. Também desenvolvi um chatbot de atendimento em Node.js, aplicações web em React e projetos de sistemas embarcados em C++. Cada projeto trouxe um desafio técnico novo, e é na resolução desses desafios que mais evoluo.',
+    'Comecei estudando por conta própria na Alura, explorando diferentes linguagens até encontrar as que mais se alinhavam ao meu perfil. Hoje, Python é a linguagem com a qual tenho mais familiaridade e que utilizo em análises de dados e dashboards, com pandas, NumPy e Plotly. Também desenvolvi um chatbot de atendimento em Node.js, aplicações web em React e projetos de sistemas embarcados em C++. Cada projeto trouxe um desafio técnico novo, e é na resolução desses desafios que mais evoluo.',
   ],
   [
-    'Gosto de participar dos projetos desde o início, entendendo o problema, propondo soluções e acompanhando a definição da arquitetura e da experiência do usuário. Meu objetivo é que a solução funcione na rotina de quem vai utilizá-la, da concepção à entrega. Tenho interesse especial em inteligência artificial aplicada ao ambiente corporativo, área em que vejo grande potencial para otimizar processos que ainda dependem de registro manual.',
+    'Gosto de participar dos projetos desde o início, entendendo o problema, propondo soluções e acompanhando a definição da arquitetura e da experiência do usuário. Meu objetivo é que a solução funcione na rotina de quem vai utilizá-la, da concepção à entrega. Hoje, um dos assuntos que mais me chamam a atenção é a inteligência artificial aplicada em empresas, que leva a automação a tarefas que exigem interpretar informações, como textos, conversas e documentos.',
   ],
   [
     'Busco minha primeira oportunidade de estágio em desenvolvimento de software para acompanhar de perto o desenvolvimento dentro de uma empresa, atuar em projetos reais com um time e aprender com profissionais mais experientes.',
